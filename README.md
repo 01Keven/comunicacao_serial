@@ -3,6 +3,9 @@
 ## Introdução
 Este projeto implementa um sistema de comunicação serial utilizando um microcontrolador Raspberry Pi Pico. O sistema gerencia entradas de botões e exibe informações em um display SSD1306, além de acionar LEDs e interagir via UART.
 
+## Link Video
+https://drive.google.com/file/d/1pp_qb_402oehYh2bOTIxyFZGBK8wQzlk/view?usp=sharing
+
 ## Definição de Hardware
 O projeto utiliza os seguintes pinos:
 
